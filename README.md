@@ -83,12 +83,6 @@ The analysis shows that Kano is the strongest-performing branch while Watches re
 
 ---
 
-## Dashboard Preview
-
-(Add your dashboard screenshot here)
-
----
-
 ### Author
 
 **Zainab Danjuma**
